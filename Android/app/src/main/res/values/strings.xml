@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealFake</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">ActivityGame</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_end_game">EndGame</string>
+    <string name="title_activity_end_game_lose">EndGameLose</string>
+    <string name="title_activity_starting_screen">starting_screen</string>
+</resources>
